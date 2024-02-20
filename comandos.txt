@@ -18,7 +18,6 @@ git push
 
 git add .
 git commit -m "alzaprima"
-
 git push
 
 git add .
