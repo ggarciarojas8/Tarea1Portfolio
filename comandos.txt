@@ -1,0 +1,29 @@
+Se practica con las lineas de comando
+
+git add .
+git commit -m "Se avanza en la actividad 1 del portfolio"
+git push
+
+git add .
+git commit -m "se avanza en la actividad 1 del portfoli"
+git push
+
+git add .
+git commit -m "se traduce"
+git push
+
+git add .
+git commit -m "se traduce"
+git push
+
+git add .
+git commit -m "alzaprima"
+
+git push
+
+git add .
+git commit -m "se muere"
+git push
+
+
+
